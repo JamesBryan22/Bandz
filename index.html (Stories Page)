@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Stories</title>
+    <link rel="stylesheet" href="a.css">
+</head>
+<body>
+
+<h1>My Stories</h1>
+
+<div class="stories">
+
+    <a href="story1.html">
+        <div class="story">
+            <img src="https://via.placeholder.com/100">
+            <p>Baseball</p>
+        </div>
+    </a>
+
+    <a href="story2.html">
+        <div class="story">
+            <img src="https://via.placeholder.com/100">
+            <p>School</p>
+        </div>
+    </a>
+
+    <a href="story3.html">
+        <div class="story">
+            <img src="https://via.placeholder.com/100">
+            <p>Life</p>
+        </div>
+    </a>
+
+</div>
+
+</body>
+</html>
